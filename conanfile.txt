@@ -1,5 +1,5 @@
 [requires]
-Prime/1.0.0@gyula.gubacsi/test
+Prime/1.0.0@progician/test
 glm/0.9.8.5@g-truc/stable 
 
 [generators]
